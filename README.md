@@ -174,7 +174,7 @@ Developed an interactive HR Analytics dashboard featuring:
 
 ### Power BI Dashboard
 
-![HR Dashboard 1](Images/hr_dashboard.png)
+![HR Dashboard 1](hr_dashboard.png)
 
 ---
 
@@ -186,8 +186,7 @@ HR-Analytics-Project
 ├── Dataset
 ├── SQL Queries
 ├── Power BI Dashboard
-├── Images
-│      └── dashboard.png
+├── dashboard.png
 └── README.md
 ```
 
