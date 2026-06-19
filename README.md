@@ -187,6 +187,7 @@ HR-Analytics-Project
 ├── SQL Queries
 ├── Power BI Dashboard
 ├── Images
+│      └── dashboard.png
 └── README.md
 ```
 
